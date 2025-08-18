@@ -301,7 +301,7 @@ nav {
 
 }
 .slid1,.slid2,.slid3,.slid4,.slid5{
-    width: 300px;
+    width: 350px;
     display: flex;
     flex-direction: column;
    
