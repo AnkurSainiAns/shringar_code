@@ -243,8 +243,9 @@ nav {
     padding: 20px;
 }
 .review{
-    margin: 70px;
-    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding: 10px;
 }
 .slid{
     display: flex;
